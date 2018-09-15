@@ -1,8 +1,29 @@
+/*
 body {
-	font-family: ariel;
+	font: 15px/1.5 Arial, Helvetica,sand-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #f4f4f4
 }
 
+/*Global Container*/
+/*
 .container {
-	background: #999;
-	text-align: center;
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
 }
+
+header {
+	background: #fff;
+	padding-top: 20px;
+	min-height: 80px;
+	border-bottom: #e8491d 3px solid;
+}
+
+.aa {
+	text-decoration: none;
+	font-size:16px;
+	text-transform: uppercase;
+}
+*/
