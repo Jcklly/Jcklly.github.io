@@ -1,3 +1,4 @@
 # Jcklly.github.io
+Website to track progress/post blogs
 
-Website...under construction
+Currently Updating/Upgrading. Refresh Coming Soon!
